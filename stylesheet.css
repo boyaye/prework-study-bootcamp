@@ -1,0 +1,19 @@
+.lesson{
+background-color: lemonchiffon;
+
+}
+.teaching{ background-color: aquamarine;
+}
+#paragraph-1{
+color: red;
+background-color:rgb(54, 165, 42);
+
+}
+#paragraph-2{
+color: darkblue;
+background-color: aqua;
+}
+#paragraph-3{ 
+    color: darkgray;
+    background-color: red;
+}
